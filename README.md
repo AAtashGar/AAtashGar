@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Ali AtashGar</h1>
-<!-- Introduction -->
-<h3 align="center">A cybersecurity enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatashgar&label=Profile%20views&color=0e75b6&style=flat" alt="aatashgar" /> </p>
 <!-- GitHub Status and Most Used Languages Sections -->
 <div style="display: flex; justify-content: space-between;">
